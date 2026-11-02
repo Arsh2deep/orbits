@@ -3,7 +3,7 @@
 #include <bn_fixed_point.h>
 #include <bn_sprite_ptr.h>
 
-#include "Center.h"
+#include "center.h"
 
 class Orbiter {
     public:

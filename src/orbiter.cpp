@@ -1,4 +1,4 @@
-#include "Orbiter.h"
+#include "orbiter.h"
 
 #include "bn_sprite_items_dot.h"
 
